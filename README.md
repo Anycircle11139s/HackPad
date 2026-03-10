@@ -19,3 +19,4 @@ BOM:
 4x M3 Heatset
 1x EC11 Rotary encoder with switch
 1x 0.91 Oled display
+8x SK6812 Mini RGB LEDs
