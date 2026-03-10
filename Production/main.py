@@ -10,17 +10,17 @@ keyboard = KMKKeyboard()
 media_keys = MediaKeys()
 keyboard.extensions.append(media_keys)
 
-# 1. ENCODER SETUP 
+# 1. Encoder setup
 encoder_handler = EncoderHandler()
 keyboard.modules.append(encoder_handler)
 encoder_handler.pins = ((board.D26, board.D27, board.D28, False),)
 
-# 2. KEY MATRIX SETUP (8 Keys)
+# 2. Setting up keys
 keyboard.col_pins = (board.D1, board.D2, board.D4, board.D3) 
-keyboard.row_pins = (board.D29, board.D0) # D0/D29 used as row strobes
+keyboard.row_pins = (board.D29, board.D0) 
 keyboard.diode_orientation = DiodeOrientation.COL2ROW
 
-# 3. KEYMAP
+# 3. Keys
 # Esc, Tab, Space, Backspace, F13-F16
 # Encoder: Volume Up/Down, Click for Mute
 keyboard.keymap = [
@@ -30,7 +30,7 @@ keyboard.keymap = [
     ]
 ]
 
-# Encoder mapping: 
+# Encoder 
 encoder_handler.map = [ ((KC.VOLU, KC.VOLD, KC.MUTE),), ]
 
 if __name__ == '__main__':
