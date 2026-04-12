@@ -20,3 +20,16 @@ BOM:
 1x EC11 Rotary encoder with switch
 1x 0.91 Oled display
 8x SK6812 Mini RGB LEDs
+
+
+Update:
+I finished the build and due to blueprint closing, I'm prob gonna have to submit it to fallout. I think its really cool, I'm thinking that for the future, I can make the oled say inspirational quotes or smth but idk. This was my first hack club project and it was really fun, I had some trouble soldering the rgb leds, but thats fine. 
+
+Here is a video of it working along with some images: asmr ahhh
+
+
+
+https://github.com/user-attachments/assets/2c05eee1-dd40-4e33-92c0-3e3769b171cc
+
+
+![WhatsApp Image 2026-04-12 at 15 41 51](https://github.com/user-attachments/assets/13090313-3bf9-4f79-93dc-2fae598b9f58)
