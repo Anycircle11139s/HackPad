@@ -33,3 +33,18 @@ https://github.com/user-attachments/assets/2c05eee1-dd40-4e33-92c0-3e3769b171cc
 
 
 ![WhatsApp Image 2026-04-12 at 15 41 51](https://github.com/user-attachments/assets/13090313-3bf9-4f79-93dc-2fae598b9f58)
+
+
+## BOM:
+| Name                            | Purpose             | Quantity | Total (USD) | Link | Distributor |
+|---------------------------------|---------------------|----------|-------------|------|-------------|
+| Cherry MX switches              | Buttons for hackpad | 8        | 0           |      | Hackpad kit |
+| Xiao rp2040                     | Microcontroller     | 1        | 0           |      | Hackpad kit |
+| Blank DSA Keycaps               | Switch Covers       | 8        | 0           |      | Hackpad kit |
+| M3x16 Bolt                      | Screws and bolts    | 4        | 0           |      | Hackpad kit |
+| M3 Heatset                      | Heat inserts        | 4        | 0           |      | Hackpad kit |
+| EC11 Rotary encoder with switch | Rotary encoder      | 1        | 0           |      | Hackpad kit |
+| 0.91 Oled display               | Oled screen         | 1        | 0           |      | Hackpad kit |
+| SK6812 Mini RGB LEDs            | Backlighting        | 8        | 0           |      | Hackpad kit |
+|                                 |                     |          |             |      |             |
+
